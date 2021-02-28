@@ -48,3 +48,10 @@ none
 ***
 * **KSMA** - master degree in shiphandling
 * **FLEX** - Future Leader Exchange - USA
+
+###   6. Languages
+***
+* English **B2**
+* Russian **C2**
+* Ukrainian **C2** 
+* Polish **A1**

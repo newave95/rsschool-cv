@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.container{
+    max-width: 1220px;
+    margin: auto;
+    background-color: #EEEEEE;
+    padding-bottom: 100px;
+}
+hr{
+    color: #007765;
+}
+header{
+    display: flex;
+    padding: 50px, 55px;
+    background:  center  no-repeat  url(image\ 1.png);
+    background-color: #007765;
+    color: #EEEEEE;
+    text-shadow: 2px 2px 4px black;
+}
+header img{
+    size: 250px, 250px;
+    border-radius: 50%;
+    margin: 35px 55px;
+    border: #007765 solid 10px;
+}
+.header_name{
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 100px;
+
+}
+.header_position{
+    font-size: 36px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+.header_contacts{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 24px;
+    padding-top: 30px;
+}
+.header_contacts li{
+    list-style: none;
+    padding-right: 28px;
+}
+.bg_white{
+    background-color: #fff;
+}
+section{
+    padding: 40px 55px 20px;
+}
+.section_name{
+    padding-bottom: 40px;
+    font-size: 36px;
+    font-weight: 500;    
+    color: #007765;
+    text-align: center;
+}
+.section_text{
+    font-size: 24px;
+}
+.skils_cards{
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+}
+.language ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 24px;
+    font-weight: 700;
+}
+.language ul li{
+    display: flex;
+    align-items: center;
+}
